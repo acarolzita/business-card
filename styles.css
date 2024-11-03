@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.portrait {
+    width: 150px;
+}
+
+.card {
+    margin: 0 auto;
+    width: 400px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FFFAF0;
+    color: #191970;
+    border-bottom: 1px solid #000000;
+}
+
+.border-purple {
+        border: 2px groove purple;
+}
+
+.second {
+    text-align: center;
+}
